@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"D:/Svenja/Unreal/VRiDays/TheDotGame/.vscode": true,
+		"D:/Svenja/Unreal/VRiDays/TheDotGame/Content": true,
+		"D:/Svenja/Unreal/VRiDays/TheDotGame/Intermediate": true,
+		"D:/Svenja/Unreal/VRiDays/TheDotGame/Saved": true
+	}
+}
